@@ -15,7 +15,7 @@
         transform: translateX(0);
     }
 }
-//Slide in animation of messages
+/*Slide in animation of messages*/
 .message-2qnXI6 {
   animation: slide-up 0.4s ease;
 }
