@@ -1,0 +1,5 @@
+{
+    "scripts": {
+        "min": "minify theme.css > theme.min.css"
+    }
+}
