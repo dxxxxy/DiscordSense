@@ -317,11 +317,11 @@
     background: linear-gradient(90deg, rgba(54, 57, 63, 0), var(--background-secondary) 80%)
 }
 
-.theme-dark .option-2KkUJO.selected-rZcOL- {
+.theme-dark .option-2KkUJO.selected-3H3-RC {
     background-color: var(--background-modifier-hover)
 }
 
-.theme-dark .option-2KkUJO.selected-rZcOL-:after {
+.theme-dark .option-2KkUJO.selected-3H3-RC:after {
     background: -webkit-gradient(linear, left top, right top, from(rgba(35, 38, 42, 0)), color-stop(50%, var(--background-modifier-hover)));
     background: linear-gradient(90deg, rgba(35, 38, 42, 0), var(--background-modifier-hover) 50%)
 }
@@ -358,7 +358,7 @@
     background-color: var(--background-accent)!important
 }
 
-.theme-dark .autocomplete-1vrmpx {
+.theme-dark .autocomplete-3NRXG8 {
     background-color: var(--background-secondary)
 }
 
@@ -546,7 +546,7 @@
     background-color: var(--background-secondary)
 }
 
-.wrapper-2aW0bm {
+.wrapper-1NNaWG {
     background-color: var(--background-secondary)
 }
 
@@ -615,7 +615,7 @@
 }
 
 .theme-dark .searchAnswer-3Dz2-q,
-.theme-dark .searchFilter-2ESiM3 {
+.theme-dark .searchFilter-2UfsDk {
     background-color: var(--background-primary)
 }
 
