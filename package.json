@@ -1,5 +1,6 @@
 {
     "scripts": {
+        "update": "npx discordthemeupdater theme.css theme.css",
         "min": "minify theme.css > theme.min.css"
     }
 }
